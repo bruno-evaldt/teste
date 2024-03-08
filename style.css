@@ -21,7 +21,11 @@
     cursor: pointer;
     margin-right: 5px;
     font-weight: bold;
-    font-size: 13px;;
+    font-size: 13px;
+}
+
+.raissa:hover {
+    background-color: rgb(240, 123, 162);
 }
 
 .isak{
