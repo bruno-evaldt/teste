@@ -13,6 +13,15 @@
 
 .raissa {
     background-color: rgb(241, 72, 129);
+    border-radius: 50px;
+    height: 40px;
+    width: 80px;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-right: 5px;
+    font-weight: bold;
+    font-size: 13px;;
 }
 
 .isak{
